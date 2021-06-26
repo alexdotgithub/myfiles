@@ -11,7 +11,7 @@ then you can go over to the myfiles folder in your home directory and copy whate
 
 Btw: Your config files are ussualy stored in /home/"your username"/.config 
 
- 983060 
+ 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
